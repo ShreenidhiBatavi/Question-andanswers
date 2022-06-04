@@ -1,0 +1,181 @@
+{
+    "questions":[
+        {
+            "questionid": 1,
+            "question": "What is the largest silk  producing state of India",
+            "validation": true,
+             "correctoption":4,
+             "selected":null,
+             
+            "questionoption": [{
+                "optionid": 1,
+                "optionvalue": "Maharastra",
+             
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 2,
+                "optionvalue": "Andra pradesh",
+                
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 3,
+                "optionvalue": "Rajasthan",
+                
+                "optionaction": "",
+                "subquestion": []
+            },
+            {
+                "optionid": 4,
+                "optionvalue": "Karanataka",
+                
+                "optionaction": "",
+                "subquestion": []
+            }
+        ]
+        },
+        {
+            "questionid": 2,
+            "question": "What is the capital city of karanataka",
+            "attributetype": 2,
+            "validation": true,
+             "correctoption":3,
+             "selected":null,
+             
+            "questionoption": [{
+                "optionid": 1,
+                "optionvalue": "Hyderabad",
+               
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 2,
+                "optionvalue": "Chennai",
+                                                            
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 3,
+                "optionvalue": "Banglore",
+                
+                "optionaction": "",
+                "subquestion": []
+            },
+            {
+                "optionid": 4,
+                "optionvalue": "Mumbai",
+                
+                "optionaction": "",
+                "subquestion": []
+            }
+        ]
+        },
+        {
+            "questionid": 3,
+            "question": "In which place of India  central food technological research institute is located",
+            "validation": true,
+             "correctoption":4,
+             "selected":null,
+             
+            "questionoption": [{
+                "optionid": 1,
+                "optionvalue": "Chennai",
+               
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 2,
+                "optionvalue": "Pune",
+                                                            
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 3,
+                "optionvalue": "Banglore",
+                
+                "optionaction": "",
+                "subquestion": []
+            },
+            {
+                "optionid": 4,
+                "optionvalue": "Mysore",
+                
+                "optionaction": "",
+                "subquestion": []
+            }
+        ]
+        },
+        {
+            "questionid": 4,
+            "question": "Which is India's National flower ?",
+            "correctoption":2,
+             "selected":null,
+             
+            "questionoption": [{
+                "optionid": 1,
+                "optionvalue": "Sun flower",
+               
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 2,
+                "optionvalue": "Lotus",
+                                                            
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 3,
+                "optionvalue": "Rose",
+                
+                "optionaction": "",
+                "subquestion": []
+            },
+            {
+                "optionid": 4,
+                "optionvalue": "Lily",
+                
+                "optionaction": "",
+                "subquestion": []
+            }
+        ]
+        },
+        {
+            "questionid": 5,
+            "question": "Which is India's largest state ?",
+            
+            "validation": true,
+             "correctoption":4,
+             "selected":null,
+             
+            "questionoption": [{
+                "optionid": 1,
+                "optionvalue": "Maharastra",
+               
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 2,
+                "optionvalue": "Gujarath",
+                                                            
+                "optionaction": "",
+                "subquestion": []
+            }, {
+                "optionid": 3,
+                "optionvalue": "Tamil nadu",
+                
+                "optionaction": "",
+                "subquestion": []
+            },
+            {
+                "optionid": 4,
+                "optionvalue": "Rajasthan",
+                
+                "optionaction": "",
+                "subquestion": []
+            }
+            
+        ]
+        }
+    ]
+}
